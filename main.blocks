@@ -1,0 +1,13 @@
+<xml xmlns="https://developers.google.com/blockly/xml"><block type="device_forever" id="}jL{uN}9%@@aE^;)5V:+" x="327" y="-496"><statement name="HANDLER"><block type="device_print_message" id="/;gAZZG)1:Xy$[v$$QYQ"><value name="text"><shadow type="text" id="-0A+Q?H{!d|:}ypAYv%c"><field name="TEXT">Pistas</field></shadow></value><next><block type="device_pause" id="%~(%ESLjXdFd]_+o1|t~"><value name="pause"><shadow type="timePicker" id="ZSq5s4#I}A]BCstc_$Gq"><field name="ms">2000</field></shadow></value><next><block type="controls_repeat_ext" id="=UpZdWhhlSwP+$[Op#9C"><value name="TIMES"><shadow type="math_whole_number" id="kk%|=!V^uFXV3`+D#T(w"><field name="NUM">4</field></shadow></value><statement name="DO"><block type="device_print_message" id="XlF!AAmJGVh4#A.M_v[,"><value name="text"><shadow type="text" id="bD7h3C#(sk#WQ:X,$z~s"><field name="TEXT">ir para o sitio que tem uma televisao grande</field></shadow></value></block></statement><next><block type="device_pause" id="a`5ATg#p-+Rn?q~m.1ak"><value name="pause"><shadow type="timePicker" id="qlkh$Kns0Q12PHJMeU_1"><field name="ms">5000</field></shadow></value><next><block type="device_show_leds" id="kL!e(6EtUL%8Qcx1OJ$O"><field name="LEDS">`
+        . . . . . 
+        # . . . . 
+        # . . . . 
+        # # # # # 
+        . # . . #
+        `</field><next><block type="device_pause" id="DXZyB7M|SD$~^y@rGWF]"><value name="pause"><shadow type="timePicker" id="/;Fi{kegDTce)l,BQ$du"><field name="ms">10000</field></shadow></value><next><block type="device_show_leds" id=",]6%BgCAiW#IP{.qLu+!"><field name="LEDS">`
+        # # . # # 
+        # # . # # 
+        # # . # # 
+        # # . # # 
+        # # . # #
+        `</field><next><block type="device_pause" id="x5`1t4QT(yVv3qB]t%lD"><value name="pause"><shadow type="timePicker" id="5Cq#OXFyE#,V3{6{I-r+"><field name="ms">60000</field></shadow></value><next><block type="device_print_message" id="B;PvV7C7J.!vn3e:r.ZB"><value name="text"><shadow type="text" id="!PudEN0mg`BAf5!n[bxg"><field name="TEXT">por a mao la dentro e consegui</field></shadow></value></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></next></block></statement></block><block type="pxt-on-start" id="z7cL?xZn=O?dpOHm!tTP" x="20" y="20"/></xml>
